@@ -41,6 +41,9 @@ npm start
 
 3. Scan the QR code displayed in terminal with camera / expo
 
+   <img width="189" height="190" alt="Screenshot 2025-08-25 at 23 22 05" src="https://github.com/user-attachments/assets/43872ef7-faad-410a-9c37-fb981210d29a" />
+
+
 ## Tech Stack
 
 - React Native + Expo
