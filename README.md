@@ -26,22 +26,15 @@ npm install
 npx expo start
 ```
 
-## Running the App
+## Running the Demo App
 
-### Development with Expo Go
+1. Scan the QR code displayed in terminal with camera, then install the APK **(Android only)**.
+<img width="322" height="344" alt="Screenshot 2025-08-25 at 23 56 41" src="https://github.com/user-attachments/assets/d2b34e67-4ead-4ca3-99bc-04ae4657d3bb" />
 
-1. Start the development server
-```bash
-npm start
-```
+**Video Preview:**
 
-2. Install Expo Go on your mobile device:
-   - iOS: [here](https://apps.apple.com/us/app/expo-go/id982107779)
-   - Android: [here](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en)
+https://github.com/user-attachments/assets/804073c9-c89a-4e76-820d-cc69bd35ce69
 
-3. Scan the QR code displayed in terminal with camera / expo
-
-   <img width="189" height="190" alt="Screenshot 2025-08-25 at 23 22 05" src="https://github.com/user-attachments/assets/43872ef7-faad-410a-9c37-fb981210d29a" />
 
 
 ## Tech Stack
